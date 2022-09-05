@@ -10,7 +10,7 @@ body {
     background: #CCCCCC
 }
 
- h1 {
+.titulo-centralizado{
      text-align: center;
  }
  
@@ -34,9 +34,7 @@ em strong {
     background: #FFFFFF
 }
 
-h2{
-    text-align: center;
-}
+
 
 ul {
     display: inline-block;
