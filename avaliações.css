@@ -15,7 +15,14 @@ nav li{
 }
 
 nav{
-    display: inline-block;
-    
+    display: inline-block;   
 } 
+
+nav a {
+    text-transform: uppercase;
+    color: chartreuse;
+    font-weight: bold;
+    font-size:20px;
+    text-decoration: none;  
+}
     
