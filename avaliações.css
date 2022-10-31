@@ -15,7 +15,10 @@ nav li{
 }
 
 nav{
-    display: inline-block;   
+    display: inline-block;
+    position: absolute;
+    right: 30px;
+    top: 110px;
 } 
 
 nav a {
